@@ -1,5 +1,4 @@
-# Editor Markdown
-
+# Proyecto Numeros Complejos
 Este es un proyecto en Python que contiene funciones para realizar operaciones con números complejos.ademas de contar con un archivo queprueba el correcto funcionamiento de las mismas.
 
  
